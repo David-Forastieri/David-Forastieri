@@ -2,7 +2,7 @@
 <h1 align="center">Hola mi nombre es Jose David Forastieri</h1>
 <h3 align="center">Soy Desarrollador Full Stack y un apasionado de la tecnología. Luego de haber pasado por distintos ámbitos laborales, mis ganas de crecer profesionalmente y de siempre incorporar nuevos conocimientos me han llevado a incursionar en el mundo IT. Tengo la capacidad de aprender y adaptarme con facilidad a diferentes situaciones que me voy encontrando, me considero una persona capaz y perseverante con los objetivos laborales que me propongo</h3>
 
-- 🔭En mis comienzos en la programación, trabaje como frelance y uno de mis proyectos destacados fue para una distribuidora llamada Grandoli, cuyo proyecto se encuentra en mi repositorio, lo realice usando Html y css, ademas incorpore Bootstrap para utilizar su sistema de grillas y mejorar la experiencia de usuario.
+- 🔭En mis comienzos en la programación, trabaje como freelance y uno de mis proyectos destacados fue para una distribuidora llamada Grandoli, cuyo proyecto se encuentra en mi repositorio, lo realice usando Html y css, ademas incorpore Bootstrap para utilizar su sistema de grillas y mejorar la experiencia de usuario.
 - Pasado el tiempo con una mayor capacitación y un poco mas de experiencia, realice mi primer trabajo formal como Front End Trainee en Webstarted S.A donde inicie en un proyecto Ecommerce utilizando tegnologias como Typescript, React, Redux, Git como controlador de versiones en un entorno de trabajo con metodologia Scrum.
 
 <h3 align="left">Contactate conmigo:</h3>
