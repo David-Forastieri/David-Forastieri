@@ -1,4 +1,4 @@
-# Jose-David-Forastieri
+
 <h1 align="center">Hola mi nombre es Jose David Forastieri</h1>
 <h3 align="center">Soy Desarrollador Full Stack y un apasionado de la tecnología. Luego de haber pasado por distintos ámbitos laborales, mis ganas de crecer profesionalmente y de siempre incorporar nuevos conocimientos me han llevado a incursionar en el mundo IT. Tengo la capacidad de aprender y adaptarme con facilidad a diferentes situaciones que me voy encontrando, me considero una persona capaz y perseverante con los objetivos laborales que me propongo</h3>
 
